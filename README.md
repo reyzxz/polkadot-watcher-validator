@@ -21,7 +21,7 @@ yarn start
 ## About
 
 The watcher is a nodeJs application meant to be connected with a substrate based node through a web socket.  
-It can then monitor the status of the node, leveraging on mechanisms such as the builtin heartbeat.
+It can then monitor the status of the node, leveraging on mechanism such as the builtin heartbeat.
 
 ### Monitoring Features
 
